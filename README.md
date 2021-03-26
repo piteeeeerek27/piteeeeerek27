@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @piteeeeerek27
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning React (Redux), Javascript
-- 💞️ I’m looking to collaborate on NASA
 - 📫 How to reach me rzesnyppiotrr@gmail.com
