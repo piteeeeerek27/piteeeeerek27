@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @piteeeeerek27
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning React (Redux), Javascript
+- 🌱 I’m currently learning Next.js, Javascript
 - 📫 How to reach me rzesnyppiotrr@gmail.com
